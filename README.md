@@ -2,11 +2,10 @@
 
 ## Data Cleaning
 The raw dataset contained duplicate records, inconsistent data formats, and missing values, making it necessary to clean the data before analysis. To maintain data integrity, data cleaning was performed on a newly created table rather than modifying the raw dataset. The following steps were taken:
-
-Removing Duplicate Data – Eliminated redundant records to ensure accuracy in the analysis.
-Standardizing Data – Ensured consistency in data formats, such as date formats, text cases, and categorical values.
-Handling Missing Values – Addressed null or blank values using appropriate imputation techniques or removal where necessary.
-Removing Unnecessary Columns – Dropped columns that were irrelevant to the analysis to optimize efficiency.
+1. Removing Duplicate Data – Eliminated redundant records to ensure accuracy in the analysis.
+2. Standardizing Data – Ensured consistency in data formats, such as date formats, text cases, and categorical values.
+3. Handling Missing Values – Addressed null or blank values using appropriate imputation techniques or removal where necessary.
+4. Removing Unnecessary Columns – Dropped columns that were irrelevant to the analysis to optimize efficiency.
 
 ## Exploratory Data Analysis (EDA)
 Key Findings
